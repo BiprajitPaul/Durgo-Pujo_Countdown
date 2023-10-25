@@ -1,6 +1,6 @@
 
 
-const dest = new Date("oct 21, 2023 10:00:00").getTime();
+const dest = new Date("oct 09, 2024 12:00:00").getTime();
 let x = setInterval(function () {
     let now = new Date().getTime();
     let diff = dest - now;
